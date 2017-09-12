@@ -1,4 +1,4 @@
-<meta name="maValidation" content="9b26160f09032820eb11768fdfb7361f" />
+(<meta name="maValidation" content="9b26160f09032820eb11768fdfb7361f" /)
 ## Welcome to GitHub Pages BERHASIL
 
 You can use the [editor on GitHub](https://github.com/koinkita/kitabisa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
